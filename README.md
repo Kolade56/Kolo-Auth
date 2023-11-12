@@ -14,6 +14,11 @@ This is a simple face recognition authentication system built using Flask and Op
 
 Before you begin, ensure you have met the following requirements:
 - Python 3.6 or higher installed on your system.
+   check your python version with this CLI 
+  ```bash
+    python --version
+  ```
+     
 - Required Python packages listed in the `requirements.txt` file.
 
 ## Installation
