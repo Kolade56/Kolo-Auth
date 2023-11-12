@@ -21,17 +21,17 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/FatOladele/Kol-auth-server.git
+   git clone https://github.com/Kolade56/Kolo-Auth.git
    ```
 2. Navigate to the Directory
     ```bash
-    cd Kol-auth-server
+    cd Kolo-Auth
     ```
 
-    or [Download the Zip here](https://github.com/FatOladele/Kol-auth-server/archive/refs/heads/main.zip)
+    or [Download the Zip here](https://github.com/Kolade56/Kolo-Auth/archive/refs/heads/main.zip)
 
     ```bash
-    cd Kol-auth-server
+    cd Kolo-Auth
     ```
 4. Create a virtual Environment strong recommended
    ```bash
